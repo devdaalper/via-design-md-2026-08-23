@@ -1,5 +1,8 @@
 # v.ia — revisión DESIGN.md del 23 de agosto de 2026
 
+> **Estado: ARCHIVADA.** La versión vigente es `VIA-WEB-R001` y se consulta en
+> <https://devdaalper.github.io/via-web-revisiones/>.
+
 Snapshot independiente de la primera variante de v.ia gobernada por `DESIGN.md`.
 
 - Incluye las propuestas A — Control, B — Precisión y C — Escala humana.
@@ -7,4 +10,4 @@ Snapshot independiente de la primera variante de v.ia gobernada por `DESIGN.md`.
 - El formulario de demostración permanece en `pending-configuration` y no recopila leads.
 - La publicación usa `noindex, nofollow` y existe únicamente para revisión.
 
-No sustituye el sitio de revisión actual ni las publicaciones históricas.
+No sustituye el sitio de revisión actual ni debe recibir comentarios como versión vigente.
